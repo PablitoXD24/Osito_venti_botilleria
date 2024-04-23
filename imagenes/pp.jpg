@@ -1,0 +1,859 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="es"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="es"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js lt-ie10" lang="es"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="es"> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes' />
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://revistapymes.es/xmlrpc.php" />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<meta property="og:type" content="article">
+<meta property="og:title" content="¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad?">
+<meta property="og:site_name" content="RevistaPYMES.es">
+<meta property="og:description" content="Al 53 % de las pequeñas empresas españolas le preocupa exponer los datos de sus clientes en una posible brecha">
+<meta property="og:url" content="https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg">
+<meta property="og:image:height" content="545">
+<meta property="og:image:width" content="800">
+<meta property="article:published_time" content="2023-11-03T12:08:04+01:00">
+<meta property="article:modified_time" content="2024-02-22T10:22:32+01:00">
+<meta property="article:author" content="http://revistapymes.es">
+<meta property="article:section" content="Seguridad">
+<meta property="article:tag" content="brecha de seguridad">
+<meta property="article:tag" content="GoDaddy">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad?">
+<meta name="twitter:description" content="Al 53 % de las pequeñas empresas españolas le preocupa exponer los datos de sus clientes en una posible brecha">
+<meta name="twitter:url" content="https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/">
+<meta name="twitter:site" content="http://revistapymes.es">
+<meta name="twitter:image" content="https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="545">
+			<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var e=this;e.win=window,e.doc=document,e.noop=function(){},e.globalBody=e.doc.getElementsByTagName("body")[0],e.globalBody=e.globalBody?e.globalBody:e.doc,e.win.jnewsDataStorage=e.win.jnewsDataStorage||{_storage:new WeakMap,put:function(e,t,n){this._storage.has(e)||this._storage.set(e,new Map),this._storage.get(e).set(t,n)},get:function(e,t){return this._storage.get(e).get(t)},has:function(e,t){return this._storage.has(e)&&this._storage.get(e).has(t)},remove:function(e,t){var n=this._storage.get(e).delete(t);return 0===!this._storage.get(e).size&&this._storage.delete(e),n}},e.windowWidth=function(){return e.win.innerWidth||e.docEl.clientWidth||e.globalBody.clientWidth},e.windowHeight=function(){return e.win.innerHeight||e.docEl.clientHeight||e.globalBody.clientHeight},e.requestAnimationFrame=e.win.requestAnimationFrame||e.win.webkitRequestAnimationFrame||e.win.mozRequestAnimationFrame||e.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(e){return setTimeout(e,1e3/60)},e.cancelAnimationFrame=e.win.cancelAnimationFrame||e.win.webkitCancelAnimationFrame||e.win.webkitCancelRequestAnimationFrame||e.win.mozCancelAnimationFrame||e.win.msCancelRequestAnimationFrame||e.win.oCancelRequestAnimationFrame||function(e){clearTimeout(e)},e.classListSupport="classList"in document.createElement("_"),e.hasClass=e.classListSupport?function(e,t){return e.classList.contains(t)}:function(e,t){return e.className.indexOf(t)>=0},e.addClass=e.classListSupport?function(t,n){e.hasClass(t,n)||t.classList.add(n)}:function(t,n){e.hasClass(t,n)||(t.className+=" "+n)},e.removeClass=e.classListSupport?function(t,n){e.hasClass(t,n)&&t.classList.remove(n)}:function(t,n){e.hasClass(t,n)&&(t.className=t.className.replace(n,""))},e.objKeys=function(e){var t=[];for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&t.push(n);return t},e.isObjectSame=function(e,t){var n=!0;return JSON.stringify(e)!==JSON.stringify(t)&&(n=!1),n},e.extend=function(){for(var e,t,n,o=arguments[0]||{},i=1,a=arguments.length;i<a;i++)if(null!==(e=arguments[i]))for(t in e)o!==(n=e[t])&&void 0!==n&&(o[t]=n);return o},e.dataStorage=e.win.jnewsDataStorage,e.isVisible=function(e){return 0!==e.offsetWidth&&0!==e.offsetHeight||e.getBoundingClientRect().length},e.getHeight=function(e){return e.offsetHeight||e.clientHeight||e.getBoundingClientRect().height},e.getWidth=function(e){return e.offsetWidth||e.clientWidth||e.getBoundingClientRect().width},e.supportsPassive=!1;try{var t=Object.defineProperty({},"passive",{get:function(){e.supportsPassive=!0}});"createEvent"in e.doc?e.win.addEventListener("test",null,t):"fireEvent"in e.doc&&e.win.attachEvent("test",null)}catch(e){}e.passiveOption=!!e.supportsPassive&&{passive:!0},e.setStorage=function(e,t){e="jnews-"+e;var n={expired:Math.floor(((new Date).getTime()+432e5)/1e3)};t=Object.assign(n,t);localStorage.setItem(e,JSON.stringify(t))},e.getStorage=function(e){e="jnews-"+e;var t=localStorage.getItem(e);return null!==t&&0<t.length?JSON.parse(localStorage.getItem(e)):{}},e.expiredStorage=function(){var t,n="jnews-";for(var o in localStorage)o.indexOf(n)>-1&&"undefined"!==(t=e.getStorage(o.replace(n,""))).expired&&t.expired<Math.floor((new Date).getTime()/1e3)&&localStorage.removeItem(o)},e.addEvents=function(t,n,o){for(var i in n){var a=["touchstart","touchmove"].indexOf(i)>=0&&!o&&e.passiveOption;"createEvent"in e.doc?t.addEventListener(i,n[i],a):"fireEvent"in e.doc&&t.attachEvent("on"+i,n[i])}},e.removeEvents=function(t,n){for(var o in n)"createEvent"in e.doc?t.removeEventListener(o,n[o]):"fireEvent"in e.doc&&t.detachEvent("on"+o,n[o])},e.triggerEvents=function(t,n,o){var i;o=o||{detail:null};return"createEvent"in e.doc?(!(i=e.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||i.initCustomEvent(n,!0,!1,o),void t.dispatchEvent(i)):"fireEvent"in e.doc?((i=e.doc.createEventObject()).eventType=n,void t.fireEvent("on"+i.eventType,i)):void 0},e.getParents=function(t,n){void 0===n&&(n=e.doc);for(var o=[],i=t.parentNode,a=!1;!a;)if(i){var r=i;r.querySelectorAll(n).length?a=!0:(o.push(r),i=r.parentNode)}else o=[],a=!0;return o},e.forEach=function(e,t,n){for(var o=0,i=e.length;o<i;o++)t.call(n,e[o],o)},e.getText=function(e){return e.innerText||e.textContent},e.setText=function(e,t){var n="object"==typeof t?t.innerText||t.textContent:t;e.innerText&&(e.innerText=n),e.textContent&&(e.textContent=n)},e.httpBuildQuery=function(t){return e.objKeys(t).reduce(function t(n){var o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(i,a){var r=n[a];a=encodeURIComponent(a);var s=o?"".concat(o,"[").concat(a,"]"):a;return null==r||"function"==typeof r?(i.push("".concat(s,"=")),i):["number","boolean","string"].includes(typeof r)?(i.push("".concat(s,"=").concat(encodeURIComponent(r))),i):(i.push(e.objKeys(r).reduce(t(r,s),[]).join("&")),i)}}(t),[]).join("&")},e.get=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("GET",t,n,o,i)},e.post=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("POST",t,n,o,i)},e.ajax=function(t,n,o,i,a){var r=new XMLHttpRequest,s=n,c=e.httpBuildQuery(o);if(t=-1!=["GET","POST"].indexOf(t)?t:"GET",r.open(t,s+("GET"==t?"?"+c:""),!0),"POST"==t&&r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.setRequestHeader("X-Requested-With","XMLHttpRequest"),r.onreadystatechange=function(){4===r.readyState&&200<=r.status&&300>r.status&&"function"==typeof i&&i.call(void 0,r.response)},void 0!==a&&!a){return{xhr:r,send:function(){r.send("POST"==t?c:null)}}}return r.send("POST"==t?c:null),{xhr:r}},e.scrollTo=function(t,n,o){function i(e,t,n){this.start=this.position(),this.change=e-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=t,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(e,t,n,o){return(e/=o/2)<1?n/2*e*e+t:-n/2*(--e*(e-2)-1)+t},i.prototype.stop=function(){this.finish=!0},i.prototype.move=function(t){e.doc.documentElement.scrollTop=t,e.globalBody.parentNode.scrollTop=t,e.globalBody.scrollTop=t},i.prototype.position=function(){return e.doc.documentElement.scrollTop||e.globalBody.parentNode.scrollTop||e.globalBody.scrollTop},i.prototype.animateScroll=function(){this.currentTime+=this.increment;var t=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(t),this.currentTime<this.duration&&!this.finish?e.requestAnimationFrame.call(e.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new i(t,n,o)},e.unwrap=function(t){var n,o=t;e.forEach(t,(function(e,t){n?n+=e:n=e})),o.replaceWith(n)},e.performance={start:function(e){performance.mark(e+"Start")},stop:function(e){performance.mark(e+"End"),performance.measure(e,e+"Start",e+"End")}},e.fps=function(){var t=0,n=0,o=0;!function(){var i=t=0,a=0,r=0,s=document.getElementById("fpsTable"),c=function(t){void 0===document.getElementsByTagName("body")[0]?e.requestAnimationFrame.call(e.win,(function(){c(t)})):document.getElementsByTagName("body")[0].appendChild(t)};null===s&&((s=document.createElement("div")).style.position="fixed",s.style.top="120px",s.style.left="10px",s.style.width="100px",s.style.height="20px",s.style.border="1px solid black",s.style.fontSize="11px",s.style.zIndex="100000",s.style.backgroundColor="white",s.id="fpsTable",c(s));var l=function(){o++,n=Date.now(),(a=(o/(r=(n-t)/1e3)).toPrecision(2))!=i&&(i=a,s.innerHTML=i+"fps"),1<r&&(t=n,o=0),e.requestAnimationFrame.call(e.win,l)};l()}()},e.instr=function(e,t){for(var n=0;n<t.length;n++)if(-1!==e.toLowerCase().indexOf(t[n].toLowerCase()))return!0},e.winLoad=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.win,{load:o})},e.docReady=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.doc,{DOMContentLoaded:o})},e.fireOnce=function(){e.docReady((function(){e.assets=e.assets||[],e.assets.length&&(e.boot(),e.load_assets())}),50)},e.boot=function(){e.length&&e.doc.querySelectorAll("style[media]").forEach((function(e){"not all"==e.getAttribute("media")&&e.removeAttribute("media")}))},e.create_js=function(t,n){var o=e.doc.createElement("script");switch(o.setAttribute("src",t),n){case"defer":o.setAttribute("defer",!0);break;case"async":o.setAttribute("async",!0);break;case"deferasync":o.setAttribute("defer",!0),o.setAttribute("async",!0)}e.globalBody.appendChild(o)},e.load_assets=function(){"object"==typeof e.assets&&e.forEach(e.assets.slice(0),(function(t,n){var o="";t.defer&&(o+="defer"),t.async&&(o+="async"),e.create_js(t.url,o);var i=e.assets.indexOf(t);i>-1&&e.assets.splice(i,1)})),e.assets=jnewsoption.au_scripts=window.jnewsads=[]},e.setCookie=function(e,t,n){var o="";if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),o="; expires="+i.toUTCString()}document.cookie=e+"="+(t||"")+o+"; path=/"},e.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1,i.length);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return null},e.eraseCookie=function(e){document.cookie=e+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},e.docReady((function(){e.globalBody=e.globalBody==e.doc?e.doc.getElementsByTagName("body")[0]:e.globalBody,e.globalBody=e.globalBody?e.globalBody:e.doc})),e.winLoad((function(){e.winLoad((function(){var t=!1;if(void 0!==window.jnewsadmin)if(void 0!==window.file_version_checker){var n=e.objKeys(window.file_version_checker);n.length?n.forEach((function(e){t||"10.0.4"===window.file_version_checker[e]||(t=!0)})):t=!0}else t=!0;t&&(window.jnewsHelper.getMessage(),window.jnewsHelper.getNotice())}),2500)}))},window.jnews.library=new window.jnews.library;</script><script type="module">;/*! instant.page v5.1.1 - (C) 2019-2020 Alexandre Dieulot - https://instant.page/license */
+let t,e;const n=new Set,o=document.createElement("link"),i=o.relList&&o.relList.supports&&o.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype,s="instantAllowQueryString"in document.body.dataset,a="instantAllowExternalLinks"in document.body.dataset,r="instantWhitelist"in document.body.dataset,c="instantMousedownShortcut"in document.body.dataset,d=1111;let l=65,u=!1,f=!1,m=!1;if("instantIntensity"in document.body.dataset){const t=document.body.dataset.instantIntensity;if("mousedown"==t.substr(0,9))u=!0,"mousedown-only"==t&&(f=!0);else if("viewport"==t.substr(0,8))navigator.connection&&(navigator.connection.saveData||navigator.connection.effectiveType&&navigator.connection.effectiveType.includes("2g"))||("viewport"==t?document.documentElement.clientWidth*document.documentElement.clientHeight<45e4&&(m=!0):"viewport-all"==t&&(m=!0));else{const e=parseInt(t);isNaN(e)||(l=e)}}if(i){const n={capture:!0,passive:!0};if(f||document.addEventListener("touchstart",(function(t){e=performance.now();const n=t.target.closest("a");h(n)&&v(n.href)}),n),u?c||document.addEventListener("mousedown",(function(t){const e=t.target.closest("a");h(e)&&v(e.href)}),n):document.addEventListener("mouseover",(function(n){if(performance.now()-e<d)return;if(!("closest"in n.target))return;const o=n.target.closest("a");h(o)&&(o.addEventListener("mouseout",p,{passive:!0}),t=setTimeout((()=>{v(o.href),t=void 0}),l))}),n),c&&document.addEventListener("mousedown",(function(t){if(performance.now()-e<d)return;const n=t.target.closest("a");if(t.which>1||t.metaKey||t.ctrlKey)return;if(!n)return;n.addEventListener("click",(function(t){1337!=t.detail&&t.preventDefault()}),{capture:!0,passive:!1,once:!0});const o=new MouseEvent("click",{view:window,bubbles:!0,cancelable:!1,detail:1337});n.dispatchEvent(o)}),n),m){let t;(t=window.requestIdleCallback?t=>{requestIdleCallback(t,{timeout:1500})}:t=>{t()})((()=>{const t=new IntersectionObserver((e=>{e.forEach((e=>{if(e.isIntersecting){const n=e.target;t.unobserve(n),v(n.href)}}))}));document.querySelectorAll("a").forEach((e=>{h(e)&&t.observe(e)}))}))}}function p(e){e.relatedTarget&&e.target.closest("a")==e.relatedTarget.closest("a")||t&&(clearTimeout(t),t=void 0)}function h(t){if(t&&t.href&&(!r||"instant"in t.dataset)&&(a||t.origin==location.origin||"instant"in t.dataset)&&["http:","https:"].includes(t.protocol)&&("http:"!=t.protocol||"https:"!=location.protocol)&&(s||!t.search||"instant"in t.dataset)&&!(t.hash&&t.pathname+t.search==location.pathname+location.search||"noInstant"in t.dataset))return!0}function v(t){if(n.has(t))return;const e=document.createElement("link");e.rel="prefetch",e.href=t,document.head.appendChild(e),n.add(t)}</script>
+	<!-- This site is optimized with the Yoast SEO plugin v22.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad? - RevistaPYMES.es</title>
+	<link rel="canonical" href="https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad? - RevistaPYMES.es" />
+	<meta property="og:description" content="Al 53 % de las pequeñas empresas españolas le preocupa exponer los datos de sus clientes en una posible brecha de seguridad. Dato que sitúa a las organizaciones españolas como las más preocupadas por esta cuestión superando la media mundial que se sitúa en el 48 %. Así se desprende del Observatorio de digitalización de [&hellip;]" />
+	<meta property="og:url" content="https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/" />
+	<meta property="og:site_name" content="RevistaPYMES.es" />
+	<meta property="article:published_time" content="2023-11-03T11:08:04+00:00" />
+	<meta property="article:modified_time" content="2024-02-22T09:22:32+00:00" />
+	<meta property="og:image" content="https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg" />
+	<meta property="og:image:width" content="800" />
+	<meta property="og:image:height" content="545" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Olga Romero" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/","url":"https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/","name":"¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad? - RevistaPYMES.es","isPartOf":{"@id":"https://revistapymes.es/#website"},"primaryImageOfPage":{"@id":"https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/#primaryimage"},"image":{"@id":"https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/#primaryimage"},"thumbnailUrl":"https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg","datePublished":"2023-11-03T11:08:04+00:00","dateModified":"2024-02-22T09:22:32+00:00","author":{"@id":"https://revistapymes.es/#/schema/person/8a18e4e3bfbbbe059739a54d9fb3d773"},"breadcrumb":{"@id":"https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/#primaryimage","url":"https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg","contentUrl":"https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg","width":800,"height":545,"caption":"brecha de seguridad - Revista Pymes - TAI Editorial - España"},{"@type":"BreadcrumbList","@id":"https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https://revistapymes.es/"},{"@type":"ListItem","position":2,"name":"¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad?"}]},{"@type":"WebSite","@id":"https://revistapymes.es/#website","url":"https://revistapymes.es/","name":"RevistaPYMES.es","description":"La información más reciente del mundo de las pymes españolas","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://revistapymes.es/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Person","@id":"https://revistapymes.es/#/schema/person/8a18e4e3bfbbbe059739a54d9fb3d773","name":"Olga Romero","image":{"@type":"ImageObject","inLanguage":"es","@id":"https://revistapymes.es/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/7cf893bd06c3e3fde087578950af5a1f?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/7cf893bd06c3e3fde087578950af5a1f?s=96&d=mm&r=g","caption":"Olga Romero"},"sameAs":["http://revistapymes.es"],"url":"https://revistapymes.es/author/olga/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="RevistaPYMES.es &raquo; Feed" href="https://revistapymes.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RevistaPYMES.es &raquo; Feed de los comentarios" href="https://revistapymes.es/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RevistaPYMES.es &raquo; Comentario ¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad? del feed" href="https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/revistapymes.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://revistapymes.es/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='js_composer_front-css' href='https://revistapymes.es/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-frontend-css' href='https://revistapymes.es/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=11.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-js-composer-css' href='https://revistapymes.es/wp-content/themes/jnews/assets/css/js-composer-frontend.css?ver=11.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-style-css' href='https://revistapymes.es/wp-content/themes/jnews/style.css?ver=11.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-darkmode-css' href='https://revistapymes.es/wp-content/themes/jnews/assets/css/darkmode.css?ver=11.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-migration-newspaper-style-css' href='https://revistapymes.es/wp-content/plugins/jnews-migration-newspaper/assets/css/shortcode.css?ver=11.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-select-share-css' href='https://revistapymes.es/wp-content/plugins/jnews-social-share/assets/css/plugin.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://revistapymes.es/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://revistapymes.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+
+<!-- Fragmento de código de la etiqueta de Google (gtag.js) añadida por Site Kit -->
+
+<!-- Fragmento de código de Google Analytics añadido por Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-TNN5SH7GYH" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["revistapymes.es"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-TNN5SH7GYH");
+/* ]]> */
+</script>
+
+<!-- Finalizar fragmento de código de la etiqueta de Google (gtags.js) añadida por Site Kit -->
+<script></script><link rel="https://api.w.org/" href="https://revistapymes.es/wp-json/" /><link rel="alternate" type="application/json" href="https://revistapymes.es/wp-json/wp/v2/posts/20275" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://revistapymes.es/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.2" />
+<link rel='shortlink' href='https://revistapymes.es/?p=20275' />
+<link rel="alternate" type="application/json+oembed" href="https://revistapymes.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frevistapymes.es%2Fcuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://revistapymes.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frevistapymes.es%2Fcuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.124.0" /><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","@id":"https:\/\/revistapymes.es\/#organization","url":"https:\/\/revistapymes.es\/","name":"","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/twitter.com\/jegtheme"]}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"https:\/\/revistapymes.es\/#website","url":"https:\/\/revistapymes.es\/","name":"","potentialAction":{"@type":"SearchAction","target":"https:\/\/revistapymes.es\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="icon" href="https://revistapymes.es/wp-content/uploads/2016/05/cropped-logo-pymes-cuadrado-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://revistapymes.es/wp-content/uploads/2016/05/cropped-logo-pymes-cuadrado-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://revistapymes.es/wp-content/uploads/2016/05/cropped-logo-pymes-cuadrado-300x300.png" />
+<meta name="msapplication-TileImage" content="https://revistapymes.es/wp-content/uploads/2016/05/cropped-logo-pymes-cuadrado-300x300.png" />
+<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">body { --j-accent-color : #0e609b; --j-alt-color : #e8ba4a; --j-heading-color : #0e609b; } a, .jeg_menu_style_5>li>a:hover, .jeg_menu_style_5>li.sfHover>a, .jeg_menu_style_5>li.current-menu-item>a, .jeg_menu_style_5>li.current-menu-ancestor>a, .jeg_navbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_midbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_side_tabs li.active, .jeg_block_heading_5 strong, .jeg_block_heading_6 strong, .jeg_block_heading_7 strong, .jeg_block_heading_8 strong, .jeg_subcat_list li a:hover, .jeg_subcat_list li button:hover, .jeg_pl_lg_7 .jeg_thumb .jeg_post_category a, .jeg_pl_xs_2:before, .jeg_pl_xs_4 .jeg_postblock_content:before, .jeg_postblock .jeg_post_title a:hover, .jeg_hero_style_6 .jeg_post_title a:hover, .jeg_sidefeed .jeg_pl_xs_3 .jeg_post_title a:hover, .widget_jnews_popular .jeg_post_title a:hover, .jeg_meta_author a, .widget_archive li a:hover, .widget_pages li a:hover, .widget_meta li a:hover, .widget_recent_entries li a:hover, .widget_rss li a:hover, .widget_rss cite, .widget_categories li a:hover, .widget_categories li.current-cat>a, #breadcrumbs a:hover, .jeg_share_count .counts, .commentlist .bypostauthor>.comment-body>.comment-author>.fn, span.required, .jeg_review_title, .bestprice .price, .authorlink a:hover, .jeg_vertical_playlist .jeg_video_playlist_play_icon, .jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail:before, .jeg_horizontal_playlist .jeg_video_playlist_play, .woocommerce li.product .pricegroup .button, .widget_display_forums li a:hover, .widget_display_topics li:before, .widget_display_replies li:before, .widget_display_views li:before, .bbp-breadcrumb a:hover, .jeg_mobile_menu li.sfHover>a, .jeg_mobile_menu li a:hover, .split-template-6 .pagenum, .jeg_mobile_menu_style_5>li>a:hover, .jeg_mobile_menu_style_5>li.sfHover>a, .jeg_mobile_menu_style_5>li.current-menu-item>a, .jeg_mobile_menu_style_5>li.current-menu-ancestor>a { color : #0e609b; } .jeg_menu_style_1>li>a:before, .jeg_menu_style_2>li>a:before, .jeg_menu_style_3>li>a:before, .jeg_side_toggle, .jeg_slide_caption .jeg_post_category a, .jeg_slider_type_1_wrapper .tns-controls button.tns-next, .jeg_block_heading_1 .jeg_block_title span, .jeg_block_heading_2 .jeg_block_title span, .jeg_block_heading_3, .jeg_block_heading_4 .jeg_block_title span, .jeg_block_heading_6:after, .jeg_pl_lg_box .jeg_post_category a, .jeg_pl_md_box .jeg_post_category a, .jeg_readmore:hover, .jeg_thumb .jeg_post_category a, .jeg_block_loadmore a:hover, .jeg_postblock.alt .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_postblock_carousel_2 .jeg_post_category a, .jeg_heroblock .jeg_post_category a, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, input[type="submit"], .btn, .button, .widget_tag_cloud a:hover, .popularpost_item:hover .jeg_post_title a:before, .jeg_splitpost_4 .page_nav, .jeg_splitpost_5 .page_nav, .jeg_post_via a:hover, .jeg_post_source a:hover, .jeg_post_tags a:hover, .comment-reply-title small a:before, .comment-reply-title small a:after, .jeg_storelist .productlink, .authorlink li.active a:before, .jeg_footer.dark .socials_widget:not(.nobg) a:hover .fa, div.jeg_breakingnews_title, .jeg_overlay_slider_bottom_wrapper .tns-controls button, .jeg_overlay_slider_bottom_wrapper .tns-controls button:hover, .jeg_vertical_playlist .jeg_video_playlist_current, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .jeg_popup_post .caption, .jeg_footer.dark input[type="submit"], .jeg_footer.dark .btn, .jeg_footer.dark .button, .footer_widget.widget_tag_cloud a:hover, .jeg_inner_content .content-inner .jeg_post_category a:hover, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress .generic-button a, #buddypress .generic-button button, #buddypress .comment-reply-link, #buddypress a.bp-title-button, #buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a, div#buddypress .standard-form button:hover, div#buddypress a.button:hover, div#buddypress input[type="submit"]:hover, div#buddypress input[type="button"]:hover, div#buddypress input[type="reset"]:hover, div#buddypress ul.button-nav li a:hover, div#buddypress .generic-button a:hover, div#buddypress .generic-button button:hover, div#buddypress .comment-reply-link:hover, div#buddypress a.bp-title-button:hover, div#buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a:hover, #buddypress #item-nav .item-list-tabs ul li a:before, .jeg_inner_content .jeg_meta_container .follow-wrapper a { background-color : #0e609b; } .jeg_block_heading_7 .jeg_block_title span, .jeg_readmore:hover, .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, .jeg_pagenav_3 .page_number:hover, .jeg_prevnext_post a:hover h3, .jeg_overlay_slider .jeg_post_category, .jeg_sidefeed .jeg_post.active, .jeg_vertical_playlist.jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail img, .jeg_horizontal_playlist .jeg_video_playlist_item.active { border-color : #0e609b; } .jeg_tabpost_nav li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .jeg_mobile_menu_style_1>li.current-menu-item a, .jeg_mobile_menu_style_1>li.current-menu-ancestor a, .jeg_mobile_menu_style_2>li.current-menu-item::after, .jeg_mobile_menu_style_2>li.current-menu-ancestor::after, .jeg_mobile_menu_style_3>li.current-menu-item::before, .jeg_mobile_menu_style_3>li.current-menu-ancestor::before { border-bottom-color : #0e609b; } .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon, .entry-header .jeg_post_meta .fa, .jeg_review_stars, .jeg_price_review_list { color : #e8ba4a; } .jeg_share_button.share-float.share-monocrhome a { background-color : #e8ba4a; } h1,h2,h3,h4,h5,h6,.jeg_post_title a,.entry-header .jeg_post_title,.jeg_hero_style_7 .jeg_post_title a,.jeg_block_title,.jeg_splitpost_bar .current_title,.jeg_video_playlist_title,.gallery-caption,.jeg_push_notification_button>a.button { color : #0e609b; } .split-template-9 .pagenum, .split-template-10 .pagenum, .split-template-11 .pagenum, .split-template-12 .pagenum, .split-template-13 .pagenum, .split-template-15 .pagenum, .split-template-18 .pagenum, .split-template-20 .pagenum, .split-template-19 .current_title span, .split-template-20 .current_title span { background-color : #0e609b; } .jeg_topbar, .jeg_topbar.dark, .jeg_topbar.custom { background : #ffffff; } .jeg_midbar, .jeg_midbar.dark { background-color : #ffffff; } .jeg_header .jeg_bottombar.jeg_navbar_wrapper:not(.jeg_navbar_boxed), .jeg_header .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row { background : #00609e; } .jeg_header_sticky .jeg_navbar_wrapper:not(.jeg_navbar_boxed), .jeg_header_sticky .jeg_navbar_boxed .jeg_nav_row { background : #00609e; } body,input,textarea,select,.chosen-container-single .chosen-single,.btn,.button { font-size: 16px;  } .jeg_header, .jeg_mobile_wrapper { font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;font-weight : 700; font-style : normal;  } .jeg_post_title, .entry-header .jeg_post_title, .jeg_single_tpl_2 .entry-header .jeg_post_title, .jeg_single_tpl_3 .entry-header .jeg_post_title, .jeg_single_tpl_6 .entry-header .jeg_post_title, .jeg_content .jeg_custom_title_wrapper .jeg_post_title { font-size: 30px;  } .jeg_post_excerpt p, .content-inner p { font-size: 16px;  } </style><style type="text/css">
+					.no_thumbnail .jeg_thumb,
+					.thumbnail-container.no_thumbnail {
+					    display: none !important;
+					}
+					.jeg_search_result .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_pl_sm.no_thumbnail .jeg_postblock_content {
+					    margin-left: 0;
+					}
+					.jeg_postblock_11 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12.jeg_col_3o3 .no_thumbnail .jeg_postblock_content  {
+					    margin-top: 0;
+					}
+					.jeg_postblock_15 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_19 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_24 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_md_box .jeg_postblock_content {
+					    position: relative;
+					}
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #212121 !important;
+					} 
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #fff !important;
+					} 
+				</style>		<style type="text/css" id="wp-custom-css">
+			.btn, .button, input[type=submit] {
+	height: initial
+}
+.pullquote.align-center {
+	text-transform: initial;
+	
+}
+.Desaparecer {display:none;}
+
+.td-pb-span5 {
+	width: 100%;
+}
+
+.alignleft, a img.alignleft, a img.alignnone, a img.alignright {
+
+	margin: 5px 10px 20px;
+
+}		</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1675251872223{background-color: #000000 !important;}.vc_custom_1675253165475{background-color: #000000 !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="post-template-default single single-post postid-20275 single-format-standard wp-embed-responsive non-logged-in jeg_toggle_light jnews jsc_normal wpb-js-composer js-comp-ver-7.0 vc_responsive">
+
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class='ads-wrapper  '></div>    </div>
+
+    <!-- The Main Wrapper
+    ============================================= -->
+    <div class="jeg_viewport">
+
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- HEADER -->
+<div class="jeg_header normal">
+    <div class="jeg_topbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left  jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_top_date">
+    martes, abril 23, 2024</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                                            </div>
+                </div>
+
+                        </div>
+    </div>
+</div><!-- /.jeg_container --><div class="jeg_midbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+			<a href="https://revistapymes.es/" style="padding: 0 0 0 0;">
+				<img class='jeg_logo_img' src="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png" srcset="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png 1x, https://revistapymes.es/wp-content/uploads/2016/05/pymesretina.png 2x" alt="RevistaPYMES.es"data-light-src="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png" data-light-srcset="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png 1x, https://revistapymes.es/wp-content/uploads/2016/05/pymesretina.png 2x" data-dark-src="" data-dark-srcset=" 1x,  2x">			</a>
+		</div>
+	</div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                                            </div>
+                </div>
+
+                        </div>
+    </div>
+</div><div class="jeg_bottombar jeg_navbar jeg_container jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_1" data-animation="animate"><li id="menu-item-18689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-18689 bgnav" data-item-row="default" ><a href="https://revistapymes.es/">Inicio</a></li>
+<li id="menu-item-16967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16967 bgnav" data-item-row="default" ><a href="https://revistapymes.es/fondos-next-generation/">AYUDAS</a></li>
+<li id="menu-item-18690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18690 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/emprendimiento/">Emprendimiento</a></li>
+<li id="menu-item-11373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11373 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/financiacion/">Financiación</a></li>
+<li id="menu-item-9445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9445 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/gestion/">Gestión EMP</a></li>
+<li id="menu-item-10618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10618 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/legislacion/">Legislación</a></li>
+<li id="menu-item-9495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9495 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/marketing/">Marketing</a></li>
+<li id="menu-item-18691" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-18691 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/seguridad/">Seguridad</a></li>
+<li id="menu-item-4627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4627 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/tecnologia/">Tecnología</a></li>
+<li id="menu-item-18692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18692 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/">Entornos</a>
+<ul class="sub-menu">
+	<li id="menu-item-18696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18696 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/dispositivos-entorno-pyme/">Dispositivos</a></li>
+	<li id="menu-item-18697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18697 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/seguridad-entorno-pyme/">Seguridad</a></li>
+	<li id="menu-item-18698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18698 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/soluciones/">Soluciones y servicios</a></li>
+</ul>
+</li>
+<li id="menu-item-15520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15520 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/">Especiales</a>
+<ul class="sub-menu">
+	<li id="menu-item-18699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18699 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/comunicaciones/">Comunicaciones</a></li>
+	<li id="menu-item-18700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18700 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/digitalizacion/">Digitalización</a></li>
+	<li id="menu-item-18701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18701 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/dispositivos/">Dispositivos</a></li>
+	<li id="menu-item-18702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18702 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/impresion-especiales/">Impresión</a></li>
+	<li id="menu-item-18703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18703 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/renting/">Renting</a></li>
+	<li id="menu-item-18704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18704 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/seguridad-especiales/">Seguridad</a></li>
+	<li id="menu-item-18705" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18705 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/software-de-gestion-especiales/">Software de gestión</a></li>
+	<li id="menu-item-18706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18706 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/sostenibilidad/">Sostenibilidad</a></li>
+</ul>
+</li>
+<li id="menu-item-14112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14112 bgnav" data-item-row="default" ><a href="https://revistapymes.es/alta-en-revistapymes/">Suscripciones</a></li>
+</ul></div></div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://revistapymes.es/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div><!-- /.jeg_header -->        </div>
+
+        <div class="jeg_header_sticky">
+            <div class="sticky_blankspace"></div>
+<div class="jeg_header normal">
+    <div class="jeg_container">
+        <div data-mode="fixed" class="jeg_stickybar jeg_navbar jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_dark">
+            <div class="container">
+    <div class="jeg_nav_row">
+        
+            <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                <div class="item_wrap jeg_nav_alignleft">
+                    <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_1" data-animation="animate"><li id="menu-item-18689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-18689 bgnav" data-item-row="default" ><a href="https://revistapymes.es/">Inicio</a></li>
+<li id="menu-item-16967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16967 bgnav" data-item-row="default" ><a href="https://revistapymes.es/fondos-next-generation/">AYUDAS</a></li>
+<li id="menu-item-18690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18690 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/emprendimiento/">Emprendimiento</a></li>
+<li id="menu-item-11373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11373 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/financiacion/">Financiación</a></li>
+<li id="menu-item-9445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9445 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/gestion/">Gestión EMP</a></li>
+<li id="menu-item-10618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10618 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/legislacion/">Legislación</a></li>
+<li id="menu-item-9495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9495 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/marketing/">Marketing</a></li>
+<li id="menu-item-18691" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-18691 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/seguridad/">Seguridad</a></li>
+<li id="menu-item-4627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4627 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/tecnologia/">Tecnología</a></li>
+<li id="menu-item-18692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18692 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/">Entornos</a>
+<ul class="sub-menu">
+	<li id="menu-item-18696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18696 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/dispositivos-entorno-pyme/">Dispositivos</a></li>
+	<li id="menu-item-18697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18697 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/seguridad-entorno-pyme/">Seguridad</a></li>
+	<li id="menu-item-18698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18698 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/entorno-pyme/soluciones/">Soluciones y servicios</a></li>
+</ul>
+</li>
+<li id="menu-item-15520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15520 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/">Especiales</a>
+<ul class="sub-menu">
+	<li id="menu-item-18699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18699 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/comunicaciones/">Comunicaciones</a></li>
+	<li id="menu-item-18700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18700 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/digitalizacion/">Digitalización</a></li>
+	<li id="menu-item-18701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18701 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/dispositivos/">Dispositivos</a></li>
+	<li id="menu-item-18702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18702 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/impresion-especiales/">Impresión</a></li>
+	<li id="menu-item-18703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18703 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/renting/">Renting</a></li>
+	<li id="menu-item-18704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18704 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/seguridad-especiales/">Seguridad</a></li>
+	<li id="menu-item-18705" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18705 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/software-de-gestion-especiales/">Software de gestión</a></li>
+	<li id="menu-item-18706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18706 bgnav" data-item-row="default" ><a href="https://revistapymes.es/category/especiales/sostenibilidad/">Sostenibilidad</a></li>
+</ul>
+</li>
+<li id="menu-item-14112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14112 bgnav" data-item-row="default" ><a href="https://revistapymes.es/alta-en-revistapymes/">Suscripciones</a></li>
+</ul></div></div>
+                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                <div class="item_wrap jeg_nav_aligncenter">
+                                    </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignright">
+                    <!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://revistapymes.es/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                </div>
+            </div>
+
+                </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="scroll">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item">
+    <a href="#" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+	    	<a href="https://revistapymes.es/">
+		        <img class='jeg_logo_img' src="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png" srcset="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png 1x, https://revistapymes.es/wp-content/uploads/2016/05/pymesretina.png 2x" alt="RevistaPYMES.es"data-light-src="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png" data-light-srcset="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png 1x, https://revistapymes.es/wp-content/uploads/2016/05/pymesretina.png 2x" data-dark-src="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png" data-dark-srcset="https://revistapymes.es/wp-content/uploads/2016/05/logopymesweb.png 1x, https://revistapymes.es/wp-content/uploads/2016/05/pymesretina.png 2x">		    </a>
+	    </div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_search_wrapper jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	<form action="https://revistapymes.es/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div>
+<div class="sticky_blankspace" style="height: 60px;"></div>        </div>
+
+        <div class="jeg_ad jeg_ad_top jnews_header_bottom_ads">
+            <div class='ads-wrapper  '><div class='ads_code'><!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v4.0.1
+  *
+  */-->
+
+<div align="center">
+
+<ins data-revive-zoneid="41" data-revive-id="c5428c3e68c7182f33532cf7e3f5a9ed"></ins>
+<script async src="//ads.taieditorial.es/www/delivery/asyncjs.php"></script>
+</div></div></div>        </div>
+
+            <div class="post-wrapper">
+
+        <div class="post-wrap" >
+
+            
+            <div class="jeg_main ">
+                <div class="jeg_container">
+                    <div class="jeg_content">
+    <div class="jeg_vc_content custom_post_template">
+        <div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper"></div></div></div></div><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-2"><div class="jeg_wrapper wpb_wrapper"></div></div><div class="wpb_column jeg_column vc_column_container vc_col-sm-8"><div class="jeg_wrapper wpb_wrapper"><div  class='jeg_archive_breadcrumb_wrapper jnews_module_20275_0_6628097157106   '>
+				
+                <h2 class="jeg_archive_description"></h2>
+            </div><div  class='jeg_custom_title_wrapper   '>
+                <h1 class="jeg_post_title">¿Cuáles son las preocupaciones de las pequeñas empresas españolas ante una brecha de seguridad?</h1>
+            </div><div  class='jeg_custom_subtitle_wrapper   '>
+                    <h2 class="jeg_post_subtitle">La exposición de los datos de sus clientes y tiempo invertido en solventar el problema son algunas de estas preocupaciones según GoDaddy</h2>
+                </div><div  class='jeg_post_meta jeg_custom_meta_wrapper   '><div class='meta_left'><div class="jeg_meta_author"><img alt='Olga Romero' src='https://secure.gravatar.com/avatar/7cf893bd06c3e3fde087578950af5a1f?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7cf893bd06c3e3fde087578950af5a1f?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' decoding='async'/><span class="meta_text">Por </span><a href="https://revistapymes.es/author/olga/">Olga Romero</a></div><div class="jeg_meta_date">
+                <a href="https://revistapymes.es/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad/">22 febrero, 2024</a>
+            </div></div><div class='meta_right'></div></div><div  class="jeg_featured featured_image  "><a href="https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg"><div class="thumbnail-container animate-lazy" style="padding-bottom:68.125%"><img width="800" height="545" src="https://revistapymes.es/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-1140x570 size-jnews-1140x570 lazyload wp-post-image" alt="brecha de seguridad - Revista Pymes - TAI Editorial - España" decoding="async" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" data-src="https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg" data-srcset="https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg 800w, https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy-300x204.jpg 300w, https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy-768x523.jpg 768w, https://revistapymes.es/wp-content/uploads/2023/11/brecha-de-seguridad-Revista-Pymes-GoDaddy-750x511.jpg 750w" data-sizes="auto" data-expand="700" /></div></a></div><div  class='jeg_custom_share_wrapper   '><div class="jeg_share_top_container"><div class="jeg_share_button clearfix">
+                <div class="jeg_share_stats">
+                    
+                    
+                </div>
+                <div class="jeg_sharelist">
+                    <a href="https://twitter.com/intent/tweet?text=%C2%BFCu%C3%A1les%20son%20las%20preocupaciones%20de%20las%20peque%C3%B1as%20empresas%20espa%C3%B1olas%20ante%20una%20brecha%20de%20seguridad%3F&url=https%3A%2F%2Frevistapymes.es%2Fcuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad%2F" rel='nofollow'  class="jeg_btn-twitter expanded"><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></i><span>Compartir en Twitter</span></a><a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Frevistapymes.es%2Fcuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad%2F&title=%C2%BFCu%C3%A1les%20son%20las%20preocupaciones%20de%20las%20peque%C3%B1as%20empresas%20espa%C3%B1olas%20ante%20una%20brecha%20de%20seguridad%3F" rel='nofollow'  class="jeg_btn-linkedin expanded"><i class="fa fa-linkedin"></i><span>Compartir en Linkedin</span></a>
+                    
+                </div>
+            </div></div></div><div  class='jeg_custom_content_wrapper   '>
+                <div class='entry-content  no-share'>
+                    <div class="jeg_share_button share-float jeg_sticky_share clearfix share-normal">
+                        
+                    </div>
+                    <div class='content-inner'>
+                        <p><strong>Al 53 % de las pequeñas empresas españolas le preocupa exponer los datos de sus clientes en una posible brecha de seguridad</strong>. Dato que sitúa a las organizaciones españolas como las más preocupadas por esta cuestión superando la media mundial que se sitúa en el 48 %. Así se desprende del <strong><a href="https://es.godaddy.com/blog/observatorio-digitalizacion-2023-tecnologia/">Observatorio de digitalización de GoDaddy 2023</a></strong>.</p>
+<p>El informe revela también qué otras preocupaciones tienen estas empresas a la hora de enfrentarse a una brecha de seguridad. Tras la exposición de los datos de los clientes, destacan l<strong>a inquietud por el tiempo necesario para solventar el problema (51 %), la pérdida de confianza de los clientes (48 %), las pérdidas económicas (47 %) y la inoperatividad de la página web (46 %)</strong>.</p>
+<p>A pesar de que las pequeñas empresas españolas tienen claras sus preocupaciones en lo que a ciberseguridad se refiere, lo cierto es que <strong>únicamente el 17 % de las mismas posee los conocimientos necesarios para hacer frente a una brecha de seguridad</strong>, mientras que la media mundial es del 35 %. Sin embargo, el 67 % de los encuestados asegura saber dónde solicitar ayuda, aspecto en el que la media global es del 50 %.</p>
+<p>En cuanto a las soluciones de seguridad, el 81 % de los españoles encuestados reconoce haber investigado o comprado herramientas de seguridad para la página web de su empresa, mientras que el 43 % asegura que compró un paquete de seguridad integral, cifra que en Alemania es del 39 % y en Estados Unidos del 36 %. Además, el 38 % de las pequeñas empresas españolas adquirió protecciones de seguridad básicas para su web y el 14 % investigó sobre el tema, pero finalmente no compró.</p>
+<p><strong>El software antivirus (62 %), las copias de seguridad de datos (57 %), el cortafuegos (38 %), el análisis de malware (35 %) y el software de cifrado como los certificados SSL (32 %) son las herramientas de protección más utilizadas por las empresas</strong>.</p>
+<p>“Disponer de las herramientas de seguridad adecuadas es crucial para las empresas de todos los tamaños, ya que las amenazas afectan tanto a las pequeñas empresas como a las grandes compañías”, ha recordado Gianluca Stamerra, director senior de go to market Latam + Iberia de GoDaddy.</p>
+<p>El directivo ha asegurado que en la compañía “entendemos la importancia de salvaguardar un negocio contra los ciberataques y estamos aquí para ayudar a los emprendedores ante este desafío”. Por ello, “nuestra gama de herramientas de seguridad está diseñada para empoderar a las pequeñas empresas, proporcionándoles el conocimiento, el apoyo y la protección que necesitan para mantener sus emprendimientos digitales seguros y prósperos”, ha explicado.</p>
+
+                    </div>
+                </div>
+            </div><div  class='jeg_custom_tag_wrapper   '>
+                    <div class="jeg_post_tags">
+                        <span>Tags:</span> <a href="https://revistapymes.es/tag/brecha-de-seguridad/" rel="tag">brecha de seguridad</a><a href="https://revistapymes.es/tag/godaddy/" rel="tag">GoDaddy</a>
+                    </div>
+                </div><div  class="jeg_postblock_5 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_20275_8_6628097159bdf   " data-unique="jnews_module_20275_8_6628097159bdf">
+					<div class="jeg_block_heading jeg_block_heading_6 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Destacados</span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_lg_2 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://revistapymes.es/informe-sobre-el-reglamento-de-sistemas-informaticos-de-facturacion-la-vision-de-wolters-kluwer/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://revistapymes.es/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Reglamento Sistemas Informáticos Facturación - Revista Pymes - Wolters Kluwer - Tai Editorial España" decoding="async" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://revistapymes.es/wp-content/uploads/2024/04/reglamento-sistemas-informaticos-facturacion-revista-pymes-wolters-kluwer-350x250.jpg" data-srcset="https://revistapymes.es/wp-content/uploads/2024/04/reglamento-sistemas-informaticos-facturacion-revista-pymes-wolters-kluwer-350x250.jpg 350w, https://revistapymes.es/wp-content/uploads/2024/04/reglamento-sistemas-informaticos-facturacion-revista-pymes-wolters-kluwer-120x86.jpg 120w, https://revistapymes.es/wp-content/uploads/2024/04/reglamento-sistemas-informaticos-facturacion-revista-pymes-wolters-kluwer-750x536.jpg 750w" data-sizes="auto" data-expand="700" /></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://revistapymes.es/category/especiales/" class="category-especiales">Especiales</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://revistapymes.es/informe-sobre-el-reglamento-de-sistemas-informaticos-de-facturacion-la-vision-de-wolters-kluwer/">Informe sobre el Reglamento de Sistemas Informáticos de Facturación: la visión de Wolters Kluwer</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://revistapymes.es/informe-sobre-el-reglamento-de-sistemas-informaticos-de-facturacion-la-vision-de-wolters-kluwer/"><i class="fa fa-clock-o"></i> 9 abril, 2024</a></div></div>
+                        <div class="jeg_post_excerpt">
+                            <p>El pasado mes de diciembre se aprobó el Reglamento de Sistemas Informáticos de Facturación, más conocido como Reglamento de la...</p>
+                            <a href="https://revistapymes.es/informe-sobre-el-reglamento-de-sistemas-informaticos-de-facturacion-la-vision-de-wolters-kluwer/" class="jeg_readmore">Read more</a>
+                        </div>
+                    </div>
+                </article></div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_20275_8_6628097159bdf = {"header_icon":"","first_title":"Destacados","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","sponsor":"","number_post":"1","post_offset":"0","unique_content":"disable","include_post":"","included_only":"","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"4405","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","excerpt_length":"20","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":4,"pagination_scroll_limit":0,"ads_type":"disable","ads_position":1,"ads_random":"","ads_image":"","ads_image_tablet":"","ads_image_phone":"","ads_image_link":"","ads_image_alt":"","ads_image_new_tab":"","google_publisher_id":"","google_slot_id":"","google_desktop":"auto","google_tab":"auto","google_phone":"auto","content":"","ads_bottom_text":"","boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_5"};</script>
+				</div><div  class='jnews_related_post_container jeg_custom_related_wrapper   '><div  class="jeg_postblock_9 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_20275_10_662809715b3fb   " data-unique="jnews_module_20275_10_662809715b3fb">
+					<div class="jeg_block_heading jeg_block_heading_6 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Related<strong> Posts</strong></span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts_wrap"><div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_md_1 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://revistapymes.es/vodafone-business-lleva-la-inteligencia-artificial-a-las-pymes/"><div class="thumbnail-container animate-lazy  size-500 "><img width="360" height="180" src="https://revistapymes.es/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 lazyload wp-post-image" alt="Vodafone Business lleva la inteligencia artificial a las pymes" decoding="async" loading="lazy" sizes="(max-width: 360px) 100vw, 360px" data-src="https://revistapymes.es/wp-content/uploads/2024/04/Vodafone-360x180.jpg" data-srcset="https://revistapymes.es/wp-content/uploads/2024/04/Vodafone-360x180.jpg 360w, https://revistapymes.es/wp-content/uploads/2024/04/Vodafone-750x375.jpg 750w" data-sizes="auto" data-expand="700" /></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://revistapymes.es/category/noticias/" class="category-noticias">Noticias</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://revistapymes.es/vodafone-business-lleva-la-inteligencia-artificial-a-las-pymes/">Vodafone Business lleva la inteligencia artificial a las pymes</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://revistapymes.es/vodafone-business-lleva-la-inteligencia-artificial-a-las-pymes/" ><i class="fa fa-clock-o"></i> 23 abril, 2024</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_1 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://revistapymes.es/camara-de-espana-modifica-los-criterios-de-acceso-a-sus-programas-de-internacionalizacion-para-llegar-a-mas-pymes/"><div class="thumbnail-container animate-lazy  size-500 "><img width="240" height="180" src="https://revistapymes.es/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 lazyload wp-post-image" alt="ICEX Next – Revista Pymes – Tai Editorial – España" decoding="async" loading="lazy" sizes="(max-width: 240px) 100vw, 240px" data-src="https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones.jpg" data-srcset="https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones.jpg 800w, https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones-300x225.jpg 300w, https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones-768x576.jpg 768w, https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones-80x60.jpg 80w, https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones-265x198.jpg 265w, https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones-696x522.jpg 696w, https://revistapymes.es/wp-content/uploads/2020/06/ICEX-Next-–-Revista-Pymes-–-programa-internacionalización-–-ICEX-España-Exportación-e-Inversiones-560x420.jpg 560w" data-sizes="auto" data-expand="700" /></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://revistapymes.es/category/noticias/" class="category-noticias">Noticias</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://revistapymes.es/camara-de-espana-modifica-los-criterios-de-acceso-a-sus-programas-de-internacionalizacion-para-llegar-a-mas-pymes/">Cámara de España modifica los criterios de acceso a sus programas de internacionalización para llegar a más pymes</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://revistapymes.es/camara-de-espana-modifica-los-criterios-de-acceso-a-sus-programas-de-internacionalizacion-para-llegar-a-mas-pymes/" ><i class="fa fa-clock-o"></i> 23 abril, 2024</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_1 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://revistapymes.es/el-gobierno-impulsara-el-uso-de-la-inteligencia-artificial-por-parte-de-las-pymes/"><div class="thumbnail-container animate-lazy  size-500 "><img width="360" height="180" src="https://revistapymes.es/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 lazyload wp-post-image" alt="BeeDIGITAL - Revista Pymes - Tai Editorial - España" decoding="async" loading="lazy" sizes="(max-width: 360px) 100vw, 360px" data-src="https://revistapymes.es/wp-content/uploads/2022/12/BeeDIGITAL-Revista-Pymes-BeeDATA-Accenture-inteligencia-artificial-360x180.jpg" data-srcset="https://revistapymes.es/wp-content/uploads/2022/12/BeeDIGITAL-Revista-Pymes-BeeDATA-Accenture-inteligencia-artificial-360x180.jpg 360w, https://revistapymes.es/wp-content/uploads/2022/12/BeeDIGITAL-Revista-Pymes-BeeDATA-Accenture-inteligencia-artificial-750x375.jpg 750w" data-sizes="auto" data-expand="700" /></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://revistapymes.es/category/noticias/" class="category-noticias">Noticias</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://revistapymes.es/el-gobierno-impulsara-el-uso-de-la-inteligencia-artificial-por-parte-de-las-pymes/">El Gobierno impulsará el uso de la inteligencia artificial por parte de las PYMES </a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://revistapymes.es/el-gobierno-impulsara-el-uso-de-la-inteligencia-artificial-por-parte-de-las-pymes/" ><i class="fa fa-clock-o"></i> 23 abril, 2024</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_1 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://revistapymes.es/espana-ya-aporta-el-11-del-negocio-de-vaultinum-en-europa/"><div class="thumbnail-container animate-lazy  size-500 "><img width="264" height="180" src="https://revistapymes.es/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 lazyload wp-post-image" alt="crecimiento-de-las-pymes-revistapymes-madrid-españa" decoding="async" loading="lazy" sizes="(max-width: 264px) 100vw, 264px" data-src="https://revistapymes.es/wp-content/uploads/2019/07/crecimiento-de-las-pymes.jpg" data-srcset="https://revistapymes.es/wp-content/uploads/2019/07/crecimiento-de-las-pymes.jpg 800w, https://revistapymes.es/wp-content/uploads/2019/07/crecimiento-de-las-pymes-300x205.jpg 300w, https://revistapymes.es/wp-content/uploads/2019/07/crecimiento-de-las-pymes-768x524.jpg 768w, https://revistapymes.es/wp-content/uploads/2019/07/crecimiento-de-las-pymes-218x150.jpg 218w, https://revistapymes.es/wp-content/uploads/2019/07/crecimiento-de-las-pymes-696x475.jpg 696w, https://revistapymes.es/wp-content/uploads/2019/07/crecimiento-de-las-pymes-615x420.jpg 615w" data-sizes="auto" data-expand="700" /></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://revistapymes.es/category/noticias/" class="category-noticias">Noticias</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://revistapymes.es/espana-ya-aporta-el-11-del-negocio-de-vaultinum-en-europa/">España ya aporta el 11% del negocio de Vaultinum en Europa </a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://revistapymes.es/espana-ya-aporta-el-11-del-negocio-de-vaultinum-en-europa/" ><i class="fa fa-clock-o"></i> 22 abril, 2024</a></div></div>
+                    </div>
+                </article></div></div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_20275_10_662809715b3fb = {"header_icon":"","first_title":"Related","second_title":" Posts","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","sponsor":false,"number_post":"4","post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":20275,"include_category":"3609,2662","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"4","pagination_scroll_limit":3,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","excerpt_length":"20","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_9"};</script>
+				</div></div></div></div><div class="wpb_column jeg_column vc_column_container vc_col-sm-2"><div class="jeg_wrapper wpb_wrapper"></div></div></div></div>        <div class="jnews_popup_post_container">    <section class="jeg_popup_post">
+        <span class="caption">Siguiente noticia</span>
+
+                    <div class="jeg_popup_content">
+                <div class="jeg_thumb">
+                                        <a href="https://revistapymes.es/managed-dms-3130-nueva-gama-de-switches-de-d-link-para-pymes/">
+                        <div class="thumbnail-container animate-lazy  size-1000 "><img width="75" height="75" src="https://revistapymes.es/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-75x75 size-jnews-75x75 lazyload wp-post-image" alt="nueva gama de switches de D-Link para pymes-revistapymes-taieditorial" decoding="async" loading="lazy" sizes="(max-width: 75px) 100vw, 75px" data-src="https://revistapymes.es/wp-content/uploads/2023/11/D-Link-DMS_3130_30PS_30TS_Switches_Multigigabit_Enterprise-75x75.png" data-srcset="https://revistapymes.es/wp-content/uploads/2023/11/D-Link-DMS_3130_30PS_30TS_Switches_Multigigabit_Enterprise-75x75.png 75w, https://revistapymes.es/wp-content/uploads/2023/11/D-Link-DMS_3130_30PS_30TS_Switches_Multigigabit_Enterprise-150x150.png 150w, https://revistapymes.es/wp-content/uploads/2023/11/D-Link-DMS_3130_30PS_30TS_Switches_Multigigabit_Enterprise-350x350.png 350w" data-sizes="auto" data-expand="700" /></div>                    </a>
+                </div>
+                <h3 class="post-title">
+                    <a href="https://revistapymes.es/managed-dms-3130-nueva-gama-de-switches-de-d-link-para-pymes/">
+                        Managed DMS-3130, nueva gama de switches de D-Link para pymes                    </a>
+                </h3>
+            </div>
+                
+        <a href="#" class="jeg_popup_close"><i class="fa fa-close"></i></a>
+    </section>
+</div>    </div>
+</div>                </div>
+            </div>
+
+            <div id="post-body-class" class="post-template-default single single-post postid-20275 single-format-standard wp-embed-responsive non-logged-in jeg_toggle_light jnews jsc_normal wpb-js-composer js-comp-ver-7.0 vc_responsive"></div>
+
+            
+        </div>
+
+        <div class="post-ajax-overlay">
+    <div class="preloader_type preloader_dot">
+        <div class="newsfeed_preloader jeg_preloader dot">
+            <span></span><span></span><span></span>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader circle">
+            <div class="jnews_preloader_circle_outer">
+                <div class="jnews_preloader_circle_inner"></div>
+            </div>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader square">
+            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+        </div>
+    </div>
+</div>
+    </div>
+        <div class="footer-holder" id="footer" data-id="footer">
+            <div class="jeg_footer jeg_footer_custom">
+    <div class="jeg_container">
+        <div class="jeg_content">
+            <div class="jeg_vc_content">
+                <div class="row vc_row wpb_row vc_row-fluid vc_custom_1675251872223 vc_row-has-fill jnews_662809715f337 footer_light"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-3"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><img class="alignnone wp-image-35215 size-medium" src="https://revistapymes.es/wp-content/uploads/2016/05/cropped-logo-pymes-cuadrado.png" alt="" width="150" height="91" /></p>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column jeg_column vc_column_container vc_col-sm-6"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="td-pb-span5">
+<aside class="footer-text-wrap">
+<h3 class="block-title" style="color: #ffffff;"><strong>SOBRE NOSOTROS</strong></h3>
+<p style="color: #ffffff;">Pionera en la información de las PYMES en España con más de 2 décadas dando voz a este segmento empresarial.</p>
+<p style="color: #ffffff;">Contáctanos: <a href="mailto:correo@taieditorial.es">correo@taieditorial.es</a></p>
+</aside>
+</div>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column jeg_column vc_column_container vc_col-sm-3"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3 class="block-title" style="color: #ffffff;"><strong>SÍGUENOS EN:</strong></h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			  <div class="jeg_aside_item socials_widget nobg">
+   <a href="https://www.linkedin.com/company/revista-pymes/" target='_blank' rel='external noopener nofollow' class="jeg_linkedin"><i class="fa fa-linkedin"  style="font-size: 40px;"></i> </a>
+ <a href="https://twitter.com/Revista_pymes" target='_blank' rel='external noopener nofollow' class="jeg_twitter"><i class="fa fa-twitter"  style="font-size: 40px;"></i> </a>
+</div>
+
+		</div>
+	</div>
+</div></div></div></div><div class="row vc_row wpb_row vc_row-fluid vc_custom_1675253165475 vc_row-has-fill jnews_6628097160204 footer_light"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>T.a.i. Editorial S.A. ®, marca registrada 2023 | <a href="https://taieditorial.es/aviso-legal/">Aviso Legal</a> | <a href="https://taieditorial.es/politica/">Política de Privacidad</a> | <a href="https://taieditorial.es/politica-de-cookies/">Política de Cookies</a> | <a href="https://taieditorial.es/directortic/">Anúnciese aquí</a></p>
+
+		</div>
+	</div>
+</div></div></div></div>            </div>
+        </div>
+    </div>
+</div><!-- /.footer -->        </div>
+
+        <div class="jscroll-to-top">
+        	<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+        </div>
+    </div>
+
+    <!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand round">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://revistapymes.es/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu sf-js-hover"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-18689"><a href="https://revistapymes.es/">Inicio</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16967"><a href="https://revistapymes.es/fondos-next-generation/">AYUDAS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18690"><a href="https://revistapymes.es/category/emprendimiento/">Emprendimiento</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11373"><a href="https://revistapymes.es/category/financiacion/">Financiación</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9445"><a href="https://revistapymes.es/category/gestion/">Gestión EMP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10618"><a href="https://revistapymes.es/category/legislacion/">Legislación</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9495"><a href="https://revistapymes.es/category/marketing/">Marketing</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-18691"><a href="https://revistapymes.es/category/seguridad/">Seguridad</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4627"><a href="https://revistapymes.es/category/tecnologia/">Tecnología</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-18692"><a href="https://revistapymes.es/category/entorno-pyme/">Entornos</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18696"><a href="https://revistapymes.es/category/entorno-pyme/dispositivos-entorno-pyme/">Dispositivos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18697"><a href="https://revistapymes.es/category/entorno-pyme/seguridad-entorno-pyme/">Seguridad</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18698"><a href="https://revistapymes.es/category/entorno-pyme/soluciones/">Soluciones y servicios</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15520"><a href="https://revistapymes.es/category/especiales/">Especiales</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18699"><a href="https://revistapymes.es/category/especiales/comunicaciones/">Comunicaciones</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18700"><a href="https://revistapymes.es/category/especiales/digitalizacion/">Digitalización</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18701"><a href="https://revistapymes.es/category/especiales/dispositivos/">Dispositivos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18702"><a href="https://revistapymes.es/category/especiales/impresion-especiales/">Impresión</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18703"><a href="https://revistapymes.es/category/especiales/renting/">Renting</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18704"><a href="https://revistapymes.es/category/especiales/seguridad-especiales/">Seguridad</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18705"><a href="https://revistapymes.es/category/especiales/software-de-gestion-especiales/">Software de gestión</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18706"><a href="https://revistapymes.es/category/especiales/sostenibilidad/">Sostenibilidad</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14112"><a href="https://revistapymes.es/alta-en-revistapymes/">Suscripciones</a></li>
+</ul></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item socials_widget nobg">
+    <a href="https://twitter.com/jegtheme" target='_blank' rel='external noopener nofollow' class="jeg_twitter"><i class="fa fa-twitter"><span class="jeg-icon icon-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></span></i> </a></div><div class="jeg_aside_item jeg_aside_copyright">
+	<p>© 2022 © T.a.i. Editorial S.A.</p>
+</div>    </div>
+</div>    </div>
+</div><script type="text/javascript">var jfla = ["view_counter"]</script>					<script>
+						(function (i, s, o, g, r, a, m) {
+							i['GoogleAnalyticsObject'] = r
+							i[r] = i[r] || function () {
+								(i[r].q = i[r].q || []).push(arguments)
+							}, i[r].l = 1 * new Date()
+							a = s.createElement(o),
+								m = s.getElementsByTagName(o)[0]
+							a.async = 1
+							a.src = g
+							m.parentNode.insertBefore(a, m)
+						})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga')
+
+						ga('create', 'UA-11280407-4', 'auto')
+						ga('send', 'pageview')
+					</script>
+					<div class="jnews-cookie-law-policy">Este sitio web almacena cookies técnicas esenciales para el buen funcionamiento de la página. Estas cookies sirven para mejorar nuestro sitio web y poder ofrecer su funcionalidad completa. No utilizamos cookies de seguimiento para publicidad, ni para redes sociales, ya que cuando comparte información con una red social, será al entrar en ésta cuando le pidan el consentimiento a esas cookies. Para conocer más acerca de las cookies que utilizamos, pulse en <a href="https://taieditorial.es/politica-de-cookies/">Política de cookies.</a> Puede visitar nuestra política de privacidad para saber más sobre el tratamiento de sus datos <a href="https://taieditorial.es/politica/">Política de privacidad</a>. Pulse en aceptar, para minimizar  <button data-expire="15" class="btn btn-cookie">Aceptar</button></div><div class="jeg_read_progress_wrapper"><div class="jeg_progress_container bottom"><span class="progress-bar"></span></div></div><script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script><script type="text/javascript" src="https://revistapymes.es/wp-includes/js/comment-reply.min.js?ver=6.5.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://revistapymes.es/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://revistapymes.es/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" id="jnews-frontend-js-extra">
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/revistapymes.es\/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad","popup_script":"magnific","single_gallery":"","ismobile":"","isie":"","sidefeed_ajax":"","language":"es_ES","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"20275","isblog":"1","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Invalid Recaptcha!","empty_username":"Please enter your username!","empty_email":"Please enter your email!","empty_password":"Please enter your password!"},"recaptcha":"0","site_slug":"\/","site_domain":"revistapymes.es","zoom_button":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://revistapymes.es/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=11.2.0" id="jnews-frontend-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://revistapymes.es/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=11.2.0" id="html5shiv-js"></script>
+<![endif]-->
+<script type="text/javascript" id="jnews-select-share-js-extra">
+/* <![CDATA[ */
+var jnews_select_share = {"is_customize_preview":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://revistapymes.es/wp-content/plugins/jnews-social-share/assets/js/plugin.js" id="jnews-select-share-js"></script>
+<script type="text/javascript" id="wpb_composer_front_js-js-extra">
+/* <![CDATA[ */
+var vcData = {"currentTheme":{"slug":"jnews"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://revistapymes.es/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=7.0" id="wpb_composer_front_js-js"></script>
+<script></script><div class="jeg_ad jnews_mobile_sticky_ads "></div><script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/revistapymes.es\/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad\/"},"dateCreated":"2023-11-03 12:08:04+01:00","datePublished":"2023-11-03 12:08:04+01:00","dateModified":"2024-02-22 09:22:32+01:00","url":"https:\/\/revistapymes.es\/cuales-son-las-preocupaciones-de-las-pequenas-empresas-espanolas-ante-una-brecha-de-seguridad\/","headline":"\u00bfCu\u00e1les son las preocupaciones de las peque\u00f1as empresas espa\u00f1olas ante una brecha de seguridad?","name":"\u00bfCu\u00e1les son las preocupaciones de las peque\u00f1as empresas espa\u00f1olas ante una brecha de seguridad?","articleBody":"<strong>Al 53 % de las peque\u00f1as empresas espa\u00f1olas le preocupa exponer los datos de sus clientes en una posible brecha de seguridad<\/strong>. Dato que sit\u00faa a las organizaciones espa\u00f1olas como las m\u00e1s preocupadas por esta cuesti\u00f3n superando la media mundial que se sit\u00faa en el 48 %. As\u00ed se desprende del <strong><a href=\"https:\/\/es.godaddy.com\/blog\/observatorio-digitalizacion-2023-tecnologia\/\">Observatorio de digitalizaci\u00f3n de GoDaddy 2023<\/a><\/strong>.\r\n\r\nEl informe revela tambi\u00e9n qu\u00e9 otras preocupaciones tienen estas empresas a la hora de enfrentarse a una brecha de seguridad. Tras la exposici\u00f3n de los datos de los clientes, destacan l<strong>a inquietud por el tiempo necesario para solventar el problema (51 %), la p\u00e9rdida de confianza de los clientes (48 %), las p\u00e9rdidas econ\u00f3micas (47 %) y la inoperatividad de la p\u00e1gina web (46 %)<\/strong>.\r\n\r\nA pesar de que las peque\u00f1as empresas espa\u00f1olas tienen claras sus preocupaciones en lo que a ciberseguridad se refiere, lo cierto es que <strong>\u00fanicamente el 17 % de las mismas posee los conocimientos necesarios para hacer frente a una brecha de seguridad<\/strong>, mientras que la media mundial es del 35 %. Sin embargo, el 67 % de los encuestados asegura saber d\u00f3nde solicitar ayuda, aspecto en el que la media global es del 50 %.\r\n\r\nEn cuanto a las soluciones de seguridad, el 81 % de los espa\u00f1oles encuestados reconoce haber investigado o comprado herramientas de seguridad para la p\u00e1gina web de su empresa, mientras que el 43 % asegura que compr\u00f3 un paquete de seguridad integral, cifra que en Alemania es del 39 % y en Estados Unidos del 36 %. Adem\u00e1s, el 38 % de las peque\u00f1as empresas espa\u00f1olas adquiri\u00f3 protecciones de seguridad b\u00e1sicas para su web y el 14 % investig\u00f3 sobre el tema, pero finalmente no compr\u00f3.\r\n\r\n<strong>El software antivirus (62 %), las copias de seguridad de datos (57 %), el cortafuegos (38 %), el an\u00e1lisis de malware (35 %) y el software de cifrado como los certificados SSL (32 %) son las herramientas de protecci\u00f3n m\u00e1s utilizadas por las empresas<\/strong>.\r\n\r\n\u201cDisponer de las herramientas de seguridad adecuadas es crucial para las empresas de todos los tama\u00f1os, ya que las amenazas afectan tanto a las peque\u00f1as empresas como a las grandes compa\u00f1\u00edas\u201d, ha recordado Gianluca Stamerra, director senior de go to market Latam + Iberia de GoDaddy.\r\n\r\nEl directivo ha asegurado que en la compa\u00f1\u00eda \u201centendemos la importancia de salvaguardar un negocio contra los ciberataques y estamos aqu\u00ed para ayudar a los emprendedores ante este desaf\u00edo\u201d. Por ello, \u201cnuestra gama de herramientas de seguridad est\u00e1 dise\u00f1ada para empoderar a las peque\u00f1as empresas, proporcion\u00e1ndoles el conocimiento, el apoyo y la protecci\u00f3n que necesitan para mantener sus emprendimientos digitales seguros y pr\u00f3speros\u201d, ha explicado.","author":{"@type":"Person","name":"Olga Romero","url":"https:\/\/revistapymes.es\/author\/olga\/","sameAs":["http:\/\/revistapymes.es"]},"articleSection":["Noticias","Seguridad"],"image":{"@type":"ImageObject","url":"https:\/\/revistapymes.es\/wp-content\/uploads\/2023\/11\/brecha-de-seguridad-Revista-Pymes-GoDaddy.jpg","width":800,"height":545},"publisher":{"@type":"Organization","name":"","url":"https:\/\/revistapymes.es","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/twitter.com\/jegtheme"]}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"hentry","entry-title":"\u00bfCu\u00e1les son las preocupaciones de las peque\u00f1as empresas espa\u00f1olas ante una brecha de seguridad?","published":"2023-11-03 12:08:04","updated":"2024-02-22 09:22:32"}</script>
+<script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script></body>
+</html>
